@@ -44,10 +44,10 @@ This repository contains an advanced Excel-based Budget Planner designed to help
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.PNG)
 
 ### Expense Input
-![Expense Input](images/expense-input.png)
+![Expense Input](images/expense.PNG)
 
 ## Contributing
 
